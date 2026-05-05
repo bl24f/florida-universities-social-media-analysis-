@@ -31,4 +31,4 @@ a semester-long IT Leadership project (LIS 4480, FSU).
 | File | Description |
 |------|-------------|
 | `Fl_Uni_SM_Tracking.xlsx` | Main tracking workbook |
-| `LIS4480_Presentation.pdf` | Final group presentation (slides 11–17 by Bruna) |
+| `LIS4480_Presentation.pdf` | Final group presentation |
